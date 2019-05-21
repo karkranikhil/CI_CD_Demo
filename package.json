@@ -1,0 +1,28 @@
+{
+  "name": "CI_CD_Demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karkranikhil/CI_CD_Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karkranikhil/CI_CD_Demo/issues"
+  },
+  "homepage": "https://github.com/karkranikhil/CI_CD_Demo#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4",
+    "should": "^13.2.3",
+    "supertest": "^4.0.2"
+  }
+}
